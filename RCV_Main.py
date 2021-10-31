@@ -2,6 +2,9 @@
 # Luke Maymir
 
 import numpy
+import tkinter as tk
+
+
 
 lastVote = False
 rankList=[]
